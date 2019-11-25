@@ -1,3 +1,5 @@
+Re-implementation of [How to Build a Tic Tac Toe Game with Svelte](https://www.sitepoint.com/svelte-tic-tac-toe/)
+
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
